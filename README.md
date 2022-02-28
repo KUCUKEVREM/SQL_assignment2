@@ -1,5 +1,4 @@
 # SQL_assignment2
-Patika.dev 2 numaralı ödev cevaplarıdır.
 ## 1- film tablosunda bulunan tüm sütunlardaki verileri replacement cost değeri 12.99 dan büyük eşit ve 16.99 küçük olma koşuluyla sıralayınız ( BETWEEN - AND yapısını kullanınız.)
 **SELECT** * **FROM** film **WHERE** replacement_cost **BETWEEEN** 12.99 AND 16.99;
 
